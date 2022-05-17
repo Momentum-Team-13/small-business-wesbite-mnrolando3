@@ -1,0 +1,11 @@
+- Make index.html
+    - Name of business
+    - Picture
+    - Navigation -> anchors
+        - Home
+        - Currently In-stock
+        - Location and Hours
+- Make in-stock.html
+    - Flower name, description, and picture
+- Make info.html
+    - Location and Hours
